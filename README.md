@@ -1,3 +1,3 @@
 # Demo 
 
-simp kokomi
+simp kokomi!
